@@ -9,7 +9,7 @@ Devpost: https://devpost.com/software/votenote
 ```$ pip install requirements.txt```
 
 ## Preview
-<img alt="Votenote mockup" width="730" src="https://u4011.imgbb.com/">
+<img alt="Votenote mockup" width="730" src="https://ibb.co/QP6F81t">
 
 ## Team Members
 * [Pasindu Danthanarayana](https://github.com/pasindu651)
